@@ -1,0 +1,6 @@
+.env
+demovideo.mp4
+git rm --cached demovideo.mp4
+__pycache__/
+*.pyc
+
